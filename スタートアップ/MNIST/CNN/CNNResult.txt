@@ -1,0 +1,79 @@
+itotaku@pti3:~/startup_program/MNIST実装$ python CNN.py
+実行開始
+will begin training
+Epoch: 1        Training Loss: 1.108294         Training Accuracy: 0.672417     Validation Loss: 0.003430       Validation Accuracy: 0.888417
+Validation loss decreased (inf --> 0.003430).  Saving model ...
+Epoch: 2        Training Loss: 0.411435         Training Accuracy: 0.877625     Validation Loss: 0.002560       Validation Accuracy: 0.917750
+Validation loss decreased (0.003430 --> 0.002560).  Saving model ...
+Epoch: 3        Training Loss: 0.330854         Training Accuracy: 0.901438     Validation Loss: 0.001912       Validation Accuracy: 0.931083
+Validation loss decreased (0.002560 --> 0.001912).  Saving model ...
+Epoch: 4        Training Loss: 0.288532         Training Accuracy: 0.914188     Validation Loss: 0.002010       Validation Accuracy: 0.943000
+Epoch: 5        Training Loss: 0.267985         Training Accuracy: 0.921958     Validation Loss: 0.001493       Validation Accuracy: 0.950250
+Validation loss decreased (0.001912 --> 0.001493).  Saving model ...
+Epoch: 6        Training Loss: 0.245340         Training Accuracy: 0.927750     Validation Loss: 0.001334       Validation Accuracy: 0.951583
+Validation loss decreased (0.001493 --> 0.001334).  Saving model ...
+Epoch: 7        Training Loss: 0.231948         Training Accuracy: 0.930896     Validation Loss: 0.000924       Validation Accuracy: 0.953500
+Validation loss decreased (0.001334 --> 0.000924).  Saving model ...
+Epoch: 8        Training Loss: 0.223556         Training Accuracy: 0.932229     Validation Loss: 0.000658       Validation Accuracy: 0.959500
+Validation loss decreased (0.000924 --> 0.000658).  Saving model ...
+Epoch: 9        Training Loss: 0.216890         Training Accuracy: 0.935562     Validation Loss: 0.001184       Validation Accuracy: 0.962083
+Epoch: 10       Training Loss: 0.205275         Training Accuracy: 0.938146     Validation Loss: 0.000809       Validation Accuracy: 0.961750
+Epoch: 11       Training Loss: 0.202854         Training Accuracy: 0.939146     Validation Loss: 0.000987       Validation Accuracy: 0.962083
+Epoch: 12       Training Loss: 0.195622         Training Accuracy: 0.942646     Validation Loss: 0.000636       Validation Accuracy: 0.961667
+Validation loss decreased (0.000658 --> 0.000636).  Saving model ...
+Epoch: 13       Training Loss: 0.188979         Training Accuracy: 0.943292     Validation Loss: 0.001397       Validation Accuracy: 0.963917
+Epoch: 14       Training Loss: 0.187510         Training Accuracy: 0.944271     Validation Loss: 0.000364       Validation Accuracy: 0.965500
+Validation loss decreased (0.000636 --> 0.000364).  Saving model ...
+Epoch: 15       Training Loss: 0.183912         Training Accuracy: 0.944562     Validation Loss: 0.000620       Validation Accuracy: 0.966417
+Epoch: 16       Training Loss: 0.180648         Training Accuracy: 0.945292     Validation Loss: 0.001271       Validation Accuracy: 0.966417
+Epoch: 17       Training Loss: 0.174871         Training Accuracy: 0.948333     Validation Loss: 0.001487       Validation Accuracy: 0.969250
+Epoch: 18       Training Loss: 0.171377         Training Accuracy: 0.950063     Validation Loss: 0.000258       Validation Accuracy: 0.968417
+Validation loss decreased (0.000364 --> 0.000258).  Saving model ...
+Epoch: 19       Training Loss: 0.168420         Training Accuracy: 0.949479     Validation Loss: 0.000866       Validation Accuracy: 0.969083
+Epoch: 20       Training Loss: 0.163270         Training Accuracy: 0.951042     Validation Loss: 0.000310       Validation Accuracy: 0.969500
+Epoch: 21       Training Loss: 0.160974         Training Accuracy: 0.952167     Validation Loss: 0.000402       Validation Accuracy: 0.970750
+Epoch: 22       Training Loss: 0.158728         Training Accuracy: 0.952104     Validation Loss: 0.000458       Validation Accuracy: 0.971000
+Epoch: 23       Training Loss: 0.156300         Training Accuracy: 0.951896     Validation Loss: 0.001636       Validation Accuracy: 0.971000
+Epoch: 24       Training Loss: 0.153081         Training Accuracy: 0.952812     Validation Loss: 0.000836       Validation Accuracy: 0.971833
+Epoch: 25       Training Loss: 0.153304         Training Accuracy: 0.954167     Validation Loss: 0.001047       Validation Accuracy: 0.972000
+Epoch: 26       Training Loss: 0.148794         Training Accuracy: 0.956250     Validation Loss: 0.001040       Validation Accuracy: 0.972833
+Epoch: 27       Training Loss: 0.149671         Training Accuracy: 0.954625     Validation Loss: 0.000901       Validation Accuracy: 0.973167
+Epoch: 28       Training Loss: 0.148462         Training Accuracy: 0.955208     Validation Loss: 0.000386       Validation Accuracy: 0.972167
+Epoch: 29       Training Loss: 0.145940         Training Accuracy: 0.956333     Validation Loss: 0.000187       Validation Accuracy: 0.973250
+Validation loss decreased (0.000258 --> 0.000187).  Saving model ...
+Epoch: 30       Training Loss: 0.140354         Training Accuracy: 0.957542     Validation Loss: 0.001541       Validation Accuracy: 0.973417
+Epoch: 31       Training Loss: 0.138706         Training Accuracy: 0.958250     Validation Loss: 0.001015       Validation Accuracy: 0.973750
+Epoch: 32       Training Loss: 0.135873         Training Accuracy: 0.958063     Validation Loss: 0.000370       Validation Accuracy: 0.974000
+Epoch: 33       Training Loss: 0.135646         Training Accuracy: 0.958104     Validation Loss: 0.000540       Validation Accuracy: 0.975083
+Epoch: 34       Training Loss: 0.134986         Training Accuracy: 0.959146     Validation Loss: 0.000827       Validation Accuracy: 0.975250
+Epoch: 35       Training Loss: 0.131412         Training Accuracy: 0.960063     Validation Loss: 0.000199       Validation Accuracy: 0.975583
+Epoch: 36       Training Loss: 0.132355         Training Accuracy: 0.959396     Validation Loss: 0.000836       Validation Accuracy: 0.975167
+Epoch: 37       Training Loss: 0.133439         Training Accuracy: 0.959854     Validation Loss: 0.000488       Validation Accuracy: 0.976083
+Epoch: 38       Training Loss: 0.127501         Training Accuracy: 0.961688     Validation Loss: 0.000663       Validation Accuracy: 0.975833
+Epoch: 39       Training Loss: 0.126153         Training Accuracy: 0.961083     Validation Loss: 0.001086       Validation Accuracy: 0.974250
+Epoch: 40       Training Loss: 0.124970         Training Accuracy: 0.962250     Validation Loss: 0.000781       Validation Accuracy: 0.974000
+Epoch: 41       Training Loss: 0.123334         Training Accuracy: 0.961750     Validation Loss: 0.000930       Validation Accuracy: 0.976250
+Epoch: 42       Training Loss: 0.120549         Training Accuracy: 0.962562     Validation Loss: 0.000702       Validation Accuracy: 0.976750
+Epoch: 43       Training Loss: 0.119528         Training Accuracy: 0.964313     Validation Loss: 0.000379       Validation Accuracy: 0.976167
+Epoch: 44       Training Loss: 0.116704         Training Accuracy: 0.964583     Validation Loss: 0.000517       Validation Accuracy: 0.976417
+Epoch: 45       Training Loss: 0.116016         Training Accuracy: 0.964083     Validation Loss: 0.000515       Validation Accuracy: 0.978000
+Epoch: 46       Training Loss: 0.114891         Training Accuracy: 0.964875     Validation Loss: 0.001274       Validation Accuracy: 0.977667
+Epoch: 47       Training Loss: 0.112229         Training Accuracy: 0.964688     Validation Loss: 0.000617       Validation Accuracy: 0.976333
+Epoch: 48       Training Loss: 0.111141         Training Accuracy: 0.964646     Validation Loss: 0.000556       Validation Accuracy: 0.977667
+Epoch: 49       Training Loss: 0.109472         Training Accuracy: 0.967146     Validation Loss: 0.000283       Validation Accuracy: 0.977833
+Epoch: 50       Training Loss: 0.109265         Training Accuracy: 0.966417     Validation Loss: 0.000821       Validation Accuracy: 0.978583
+Test Loss: 0.067108
+
+test_history added
+Test Accuracy of     0: 99% (971/980)
+Test Accuracy of     1: 98% (1120/1135)
+Test Accuracy of     2: 98% (1016/1032)
+Test Accuracy of     3: 98% (992/1010)
+Test Accuracy of     4: 97% (961/982)
+Test Accuracy of     5: 97% (868/892)
+Test Accuracy of     6: 98% (944/958)
+Test Accuracy of     7: 97% (1005/1028)
+Test Accuracy of     8: 97% (952/974)
+Test Accuracy of     9: 96% (974/1009)
+
+Test Accuracy (Overall): 98% (9803/10000)
