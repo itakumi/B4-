@@ -1,0 +1,11 @@
+Accuracy of the network on the 10000 test images: 78 %
+Accuracy of plane : 81 %
+Accuracy of   car : 93 %
+Accuracy of  bird : 60 %
+Accuracy of   cat : 65 %
+Accuracy of  deer : 67 %
+Accuracy of   dog : 68 %
+Accuracy of  frog : 90 %
+Accuracy of horse : 93 %
+Accuracy of  ship : 89 %
+Accuracy of truck : 89 %
