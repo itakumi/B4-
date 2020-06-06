@@ -1,0 +1,17 @@
+Accuracy of the network on the 10000 test images: 75.26 %
+Accuracy of plane : 95 %
+Accuracy of   car : 87 %
+Accuracy of  bird : 57 %
+Accuracy of   cat : 55 %
+Accuracy of  deer : 63 %
+Accuracy of   dog : 62 %
+Accuracy of  frog : 83 %
+Accuracy of horse : 87 %
+Accuracy of  ship : 85 %
+Accuracy of truck : 75 %
+loss graph is saved
+acc graph is saved
+breakします
+test_acc_result= [0.7526]
+end of CenterCrop_RandomVerticalFlip
+elapsed_time:1747.6245188713074[sec]
