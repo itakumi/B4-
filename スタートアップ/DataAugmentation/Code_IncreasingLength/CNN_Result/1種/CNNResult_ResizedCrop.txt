@@ -1,11 +1,17 @@
-Accuracy of the network on the 10000 test images: 71 %
-Accuracy of plane : 97 %
-Accuracy of   car : 93 %
-Accuracy of  bird : 47 %
-Accuracy of   cat : 34 %
-Accuracy of  deer : 79 %
-Accuracy of   dog : 37 %
-Accuracy of  frog : 84 %
-Accuracy of horse : 84 %
-Accuracy of  ship : 83 %
-Accuracy of truck : 86 %
+Accuracy of the network on the 10000 test images: 73.97 %
+Accuracy of plane : 88 %
+Accuracy of   car : 81 %
+Accuracy of  bird : 52 %
+Accuracy of   cat : 39 %
+Accuracy of  deer : 65 %
+Accuracy of   dog : 78 %
+Accuracy of  frog : 83 %
+Accuracy of horse : 81 %
+Accuracy of  ship : 72 %
+Accuracy of truck : 89 %
+loss graph is saved
+acc graph is saved
+breakします
+test_acc_result= [0.7397]
+end of ResizedCrop
+elapsed_time:864.388179063797[sec]
